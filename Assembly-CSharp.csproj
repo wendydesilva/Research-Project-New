@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BackButtonScript.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\NewBehaviourScript1.cs" />
      <Compile Include="Assets\TrackableEventHandler.cs" />
