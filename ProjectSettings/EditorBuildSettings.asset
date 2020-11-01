@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleSceneSinhala.unity
     guid: f0f0adb7c4c0fa346a7949a024103884
+  - enabled: 1
+    path: Assets/Scenes/EnglishSlideshows.unity
+    guid: 3c5d2fc4af2807240a2c2b90791eb18f
   m_configObjects: {}

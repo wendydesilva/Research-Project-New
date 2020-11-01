@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="HCLProducts" size="50.000000 37.500000" />
     <ImageTarget name="nitrate" size="50.000000 24.384563" />
     <ImageTarget name="acetic" size="50.000000 25.673595" />
     <ImageTarget name="caco3" size="50.000000 15.709109" />
